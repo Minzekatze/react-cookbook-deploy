@@ -8,7 +8,7 @@ import { AuthProvider } from "./contexts/AuthContext";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <HashRouter baseUrl="/cookbook-v2">
+    <HashRouter baseUrl="/react-cookbook-deploy">
       <AuthProvider>
         <App />
       </AuthProvider>

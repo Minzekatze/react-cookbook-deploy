@@ -1,7 +1,7 @@
 {
   "name": "cookbook-2",
   "version": "0.1.0",
-  "homepage": "https://florifourchette.github.io/cookbook-v2",
+  "homepage": "https://Minzekatze.github.io/cookbook-react-cookbook-deploy",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",

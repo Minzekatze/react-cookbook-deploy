@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cookbook-react-cookbook-deploy/static/css/main.f731610c.css",
+    "main.js": "/cookbook-react-cookbook-deploy/static/js/main.663d2799.js",
+    "static/media/fa-solid-900.ttf": "/cookbook-react-cookbook-deploy/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/cookbook-react-cookbook-deploy/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/cookbook-react-cookbook-deploy/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/cookbook-react-cookbook-deploy/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/cookbook-react-cookbook-deploy/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/GooglePlay.png": "/cookbook-react-cookbook-deploy/static/media/GooglePlay.38a85d1ca1031e1c1f92.png",
+    "static/media/fa-regular-400.woff2": "/cookbook-react-cookbook-deploy/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/Logo.png": "/cookbook-react-cookbook-deploy/static/media/Logo.d756e11d992e9f1f0ca8.png",
+    "static/media/Appstore.png": "/cookbook-react-cookbook-deploy/static/media/Appstore.9a335fde51e558729d0e.png",
+    "static/media/fa-v4compatibility.ttf": "/cookbook-react-cookbook-deploy/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/cookbook-react-cookbook-deploy/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/cookbook-react-cookbook-deploy/index.html",
+    "main.f731610c.css.map": "/cookbook-react-cookbook-deploy/static/css/main.f731610c.css.map",
+    "main.663d2799.js.map": "/cookbook-react-cookbook-deploy/static/js/main.663d2799.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f731610c.css",
+    "static/js/main.663d2799.js"
+  ]
+}

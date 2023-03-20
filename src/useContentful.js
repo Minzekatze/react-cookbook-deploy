@@ -14,7 +14,6 @@ const useContentful = () => {
         "fields.categories.sys.id": categoryID?.sys.id,
         query: searchInput,
         "fields.recipeTitle[match]": searchInput,
-        
       });
       const sanitizedEntries = entries.items.map((item) => {
         const recipeImg = item.fields.recipePicture?.fields;

@@ -18,7 +18,11 @@ const RecipeCard = ({ recipe }) => {
   if (isActive) {
     return (
       <Card
-        sx={{ maxWidth: 300 }}
+        sx={{
+          maxWidth: 300,
+          margin: "0.75rem",
+          "&:hover": { boxShadow: "10px 10px 2px 1px rgb(250, 192, 97)" },
+        }}
         onClick={handleClick}
         className="recipeCards"
       >
@@ -67,7 +71,11 @@ const RecipeCard = ({ recipe }) => {
   } else {
     return (
       <Card
-        sx={{ maxWidth: 300 }}
+        sx={{
+          maxWidth: 300,
+          margin: "0.75rem",
+          "&:hover": { boxShadow: "10px 10px 2px 1px rgb(250, 192, 97)" },
+        }}
         onClick={handleClick}
         className="recipeCards"
       >

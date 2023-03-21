@@ -14,6 +14,10 @@ export default ({ filteredRecipes }) => {
   const { id } = useParams();
   const navigate = useNavigate();
 
+  function clickgoBack() {
+    navigate(-1);
+  }
+
   const myRecipe = filteredRecipes.find((aRecipe) => {
     return aRecipe.recipeUrl === id;
   });
@@ -35,7 +39,16 @@ export default ({ filteredRecipes }) => {
       >
         <ol class="breadcrumb">
           <li class="breadcrumb-item">
-            <a href="/">Home</a>
+            <a
+              style={{
+                color: "#fac061",
+                textWeight: 700,
+                cursor: "pointer",
+              }}
+              onClick={clickgoBack}
+            >
+              Home
+            </a>
           </li>
           <li class="breadcrumb-item active" aria-current="page">
             {id}

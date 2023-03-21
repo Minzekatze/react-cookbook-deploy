@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-cookbook-deploy/static/css/main.1d0ea901.css",
-    "main.js": "/react-cookbook-deploy/static/js/main.d6c50dcd.js",
+    "main.css": "/react-cookbook-deploy/static/css/main.3e42183a.css",
+    "main.js": "/react-cookbook-deploy/static/js/main.e433e8b6.js",
     "static/media/fa-solid-900.ttf": "/react-cookbook-deploy/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
     "static/media/fa-brands-400.ttf": "/react-cookbook-deploy/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
     "static/media/fa-solid-900.woff2": "/react-cookbook-deploy/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
@@ -14,11 +14,11 @@
     "static/media/fa-v4compatibility.ttf": "/react-cookbook-deploy/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
     "static/media/fa-v4compatibility.woff2": "/react-cookbook-deploy/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
     "index.html": "/react-cookbook-deploy/index.html",
-    "main.1d0ea901.css.map": "/react-cookbook-deploy/static/css/main.1d0ea901.css.map",
-    "main.d6c50dcd.js.map": "/react-cookbook-deploy/static/js/main.d6c50dcd.js.map"
+    "main.3e42183a.css.map": "/react-cookbook-deploy/static/css/main.3e42183a.css.map",
+    "main.e433e8b6.js.map": "/react-cookbook-deploy/static/js/main.e433e8b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d0ea901.css",
-    "static/js/main.d6c50dcd.js"
+    "static/css/main.3e42183a.css",
+    "static/js/main.e433e8b6.js"
   ]
 }
